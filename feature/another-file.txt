@@ -3,3 +3,4 @@ This file was modified localy.
 This line was added in feature-2 branch.
 
 And another line.
+Final edit.
