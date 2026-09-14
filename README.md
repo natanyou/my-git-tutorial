@@ -2,3 +2,4 @@
 My tutorial for learning to use git and github. Based on the course by Bogdan Staschuck.
 
 This line was modified manually during conflict resolution.
+Another change to check push.
